@@ -1,0 +1,31 @@
+body{
+  background-color: rgb(23, 23, 34);
+  color: rgb(31, 29, 29);
+  display: flex;
+  align-items: center;
+  min-height: 100vh;
+}
+
+.container{
+  width: 80%;
+}
+
+.box{
+  background-color: white;
+  padding: 15px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  margin-top: 80px;
+}
+
+
+
+#botaoCalcular{
+  margin-block: 10px;
+  text-align: center;
+}
+.form-control{  
+  margin-bottom: 5px;
+}
+
