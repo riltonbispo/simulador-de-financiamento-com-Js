@@ -19,10 +19,9 @@ body{
   margin-top: 80px;
 }
 
-
-
 #botaoCalcular{
-  margin-block: 10px;
+  margin: 0 auto;
+  margin-block: 20px;
   width: 40%;
   text-align: center;
 }
