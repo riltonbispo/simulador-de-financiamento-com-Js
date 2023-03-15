@@ -23,6 +23,7 @@ body{
 
 #botaoCalcular{
   margin-block: 10px;
+  width: 40%;
   text-align: center;
 }
 .form-control{  
